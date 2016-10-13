@@ -1,3 +1,4 @@
+# EXTRACTED FROM EXAMPLES OF [GOOGLE API CLIENT GEM](https://github.com/google/google-api-ruby-client)
 # API Samples
 
 This directory contains a simple Sinatra web app illustrating how to use the client
